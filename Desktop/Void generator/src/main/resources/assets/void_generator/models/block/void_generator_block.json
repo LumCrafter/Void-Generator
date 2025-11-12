@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "void_generator:block/void_generator_block_side",
+    "south": "void_generator:block/void_generator_block_side",
+    "east":  "void_generator:block/void_generator_block_side",
+    "west":  "void_generator:block/void_generator_block_side",
+    "up":    "void_generator:block/void_generator_block_updown",
+    "down":  "void_generator:block/void_generator_block_updown",
+    "particle": "void_generator:block/void_generator_block_updown"
+  }
+}

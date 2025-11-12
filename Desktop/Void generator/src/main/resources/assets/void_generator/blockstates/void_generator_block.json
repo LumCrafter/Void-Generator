@@ -1,0 +1,7 @@
+{
+  "variants":{
+  "": {
+    "model": "void_generator:block/void_generator_block"
+    }
+  }
+}

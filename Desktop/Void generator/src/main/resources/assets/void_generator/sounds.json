@@ -1,0 +1,11 @@
+{
+  "voidgen_overloaded": {
+    "subtitles": "sounds.void_generator.voidgen_overloaded",
+    "sounds": [
+      {
+        "name": "void_generator:voidgen_overloaded",
+        "stream": true
+      }
+    ]
+  }
+}

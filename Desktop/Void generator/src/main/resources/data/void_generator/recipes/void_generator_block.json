@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+  "IDI",
+  "BRB",
+  "IDI"
+  ],
+  "key": {
+    "D": {"item": "minecraft:chiseled_deepslate"},
+    "B": {"item": "minecraft:deepslate_bricks"},
+    "R": {"item": "minecraft:rotten_flesh"},
+    "I": {"item": "minecraft:iron_block"}
+  },
+  "result": {
+    "item": "void_generator:void_generator_block",
+    "count": 1
+  }
+}
