@@ -61,7 +61,7 @@ public class Void_generator {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS){
-            event.accept(ModItems.VOID_GENERATOR);
+            event.accept(ModBlocks.VOID_GENERATOR_BLOCK);
         }
     }
 
